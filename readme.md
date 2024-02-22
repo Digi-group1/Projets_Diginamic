@@ -20,11 +20,11 @@ Session 2023-2024
 - afficher des statistiques de sa bibliothèque <br>
 
 #### Projet 2
-👉 *Objectifs* :
-👉 *Contexte* :
-👉 *Attendus/Résultats* :
+👉 *Objectifs* :  <br>
+👉 *Contexte* :  <br>
+👉 *Attendus/Résultats* :  <br>
 
 #### Projet 3
-👉 *Objectifs* :
-👉 *Contexte* :
-👉 *Attendus/Résultats* :
+👉 *Objectifs* :  <br>
+👉 *Contexte* :  <br>
+👉 *Attendus/Résultats* :  <br>
