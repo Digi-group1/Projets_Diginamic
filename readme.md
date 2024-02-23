@@ -7,7 +7,7 @@
 POEC Data Analyst
 
 ## :point_down: Session :
-Session 2023-2024
+Session Nantes 2023-2024
 
 ## 🚀&nbsp; 3 projets :
 #### Projet 1
@@ -20,12 +20,16 @@ Session 2023-2024
 - afficher des statistiques de sa bibliothèque <br>
 
 #### Projet 2
-👉 *Objectifs* :  <br>
-👉 *Contexte* :  <br>
-👉 *Attendus/Résultats* :  <br>
+👉 *Objectifs* : Concevoir et développer une solution de collecte, de stockage et de traitement de données massives (Big Data) avec Hadoop <br>
+👉 *Contexte* : On dispose de la base de données des commandes d'objets "Collector" d'un industriel. Il souhaite obtenir des informations statistiques et de performance de ce système de fidélité.<br>
+👉 *Attendus/Résultats* : Répartition des demandes en plusieurs lots qui doivent permettre : <br>
+- de trier et classer les meilleures commandes selon des critères d'année et de département => réalisation d'un job de map/reduce dans Hadoop <br>
+- de récupérer ces statistiques sous format Excel ou de graphiques ; <br>
+- de transformer sa BDD en base NoSQL dans Hbase => réalisation d'un script Python de création et d'écriture d'une table Hbase depuis le CSV d'origine <br>
+- de réaliser des tableaux de bord pertinents à partir de ces données => import, traitements, choix et création des dashboards dans Power BI 
 
 #### Projet 3
-👉 *Objectifs* : Conception d'une application permettant d’entraîner et (potentiellement appliquer) des modèles de machine learning sur différents jeux de donnée. <br>
+👉 *Objectifs* : Conception d'une application permettant d’entraîner et (potentiellement appliquer) des modèles de machine learning sur différents jeux de données. <br>
 👉 *Contexte* : On dispose de deux jeux de données, "Vins" pour la  classification et "Diabète" pour la régression. <br>
 👉 *Attendus/Résultats* : Créer une application de machine learning sur Streamlit proposant :​ <br>
 - les deux jeux de données fournis ou l'import d'une BDD au format CSV​,
