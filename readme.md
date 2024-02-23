@@ -25,8 +25,8 @@ Session 2023-2024
 👉 *Attendus/Résultats* :  <br>
 
 #### Projet 3
-👉 *Objectifs* : Concevoir une application permettant d’entraîner et (potentiellement appliquer) des modèles de machine learning sur différents jeux de donnée. <br>
-👉 *Contexte* : Nous disposons de deux jeux de données, "Vins" pour la  classification et "Diabète" pour la régression. <br>
+👉 *Objectifs* : Conception d'une application permettant d’entraîner et (potentiellement appliquer) des modèles de machine learning sur différents jeux de donnée. <br>
+👉 *Contexte* : On dispose de deux jeux de données, "Vins" pour la  classification et "Diabète" pour la régression. <br>
 👉 *Attendus/Résultats* : Créer une application de machine learning sur Streamlit proposant :​ <br>
 - les deux jeux de données fournis ou l'import d'une BDD au format CSV​,
 - le traitement de la BDD sélectionnée (data management)​, <br>
