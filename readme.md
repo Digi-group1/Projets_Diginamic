@@ -9,6 +9,9 @@ POEC Data Analyst
 ## :point_down: Session :
 Session Nantes 2023-2024
 
+## :point_down: Lien vers notre présentation finale (avec vidéos de démonstration) :
+https://drive.google.com/drive/folders/1zYZAyX6m24KOESCD0kFwc_uxzGW9FJWK?usp=drive_link
+
 ## 🚀&nbsp; 3 projets :
 #### Projet 1
 👉 *Objectifs* : Développement d’un système de traitement de données NoSQL avec MongoDB et Python <br>
