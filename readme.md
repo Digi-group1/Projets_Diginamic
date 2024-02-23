@@ -1,7 +1,7 @@
 <h1 align="center">Projets de mise en application - Formation Diginamic</h1>
 
 ## :point_down: Groupe 1 Diginamic :
-3 membres : Amandine André, André Le Marec et Anthony Alves
+3 membres : Amandine André, Andréa Le Marec et Anthony Alves
 
 ## :point_down: Formation :
 POEC Data Analyst
