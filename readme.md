@@ -10,7 +10,7 @@ POEC Data Analyst
 Session Nantes 2023-2024
 
 ## :point_down: Lien vers notre présentation finale (avec vidéos de démonstration) :
-https://drive.google.com/drive/folders/1zYZAyX6m24KOESCD0kFwc_uxzGW9FJWK?usp=drive_link
+https://drive.google.com/drive/folders/1mmVUsCGHv-fsWHpLjweKbofaHNfSNQLc?usp=drive_link
 
 ## 🚀&nbsp; 3 projets :
 #### Projet 1
